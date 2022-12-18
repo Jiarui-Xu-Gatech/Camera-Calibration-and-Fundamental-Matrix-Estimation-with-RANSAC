@@ -1,4 +1,4 @@
-# Project 3: Camera Calibration and Fundamental Matrix Estimation with RANSAC
+# Camera Calibration and Fundamental Matrix Estimation with RANSAC
 
 ## Getting Started
   - See [Project 0](https://github.gatech.edu/cs4476/project-0) for detailed environment setup.
